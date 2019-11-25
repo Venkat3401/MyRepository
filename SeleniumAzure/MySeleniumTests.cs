@@ -77,6 +77,7 @@ namespace SeleniumBingTests
         public void MyTestCleanup()
         {
             driver.Quit();
+
         }
     }
 }
