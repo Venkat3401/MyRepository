@@ -23,6 +23,7 @@ namespace SeleniumBingTests
         }
 
 
+
         [TestMethod]
         [TestCategory("Chrome")]
         public void TheBingSearchTest()
